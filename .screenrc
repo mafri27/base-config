@@ -2,7 +2,9 @@ vbell on
 autodetach on
 startup_message off
 pow_detach_msg "Screen session of \$LOGNAME \$:cr:\$:nl:ended."
-defscrollback 1000
+defscrollback 100000
+term screen-256color
+termcapinfo xterm* ti@:te@
 hardstatus on
 hardstatus alwayslastline
 hardstatus string "%{.bW}%-w%{.rW}%f%n %t%{-}%+w %=%{..G}[%H %l] %{..Y} %d.%m.%y %c "
