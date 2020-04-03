@@ -788,7 +788,6 @@ set expandtab
 "
 
 set tabstop=4
-set shiftwidth=10
 set expandtab
 
 "format all
