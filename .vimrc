@@ -280,7 +280,7 @@ set   cindent
 set   shiftwidth=4
 "
 "       tabstop: (ts)
-set   tabstop=8
+set   tabstop=4
 "
 "       smarttab: Use tabs at the start of a line, spaces elsewhere
 set   smarttab
