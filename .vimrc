@@ -277,7 +277,7 @@ set   cindent
 "
 "       shiftwidth: Number of spaces to use for each insertion of
 "       (auto)indent.
-set   shiftwidth=8
+set   shiftwidth=4
 "
 "       tabstop: (ts)
 set   tabstop=8
